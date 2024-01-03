@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Labb3ProgTemplate.DataModels.Products.Product">
+    <Position X="14.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModels\Products\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.DataModels.Users.Admin">
+    <Position X="3" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DataModels\Users\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.DataModels.Users.Customer">
+    <Position X="0.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DataModels\Users\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.DataModels.Users.User">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAYAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>DataModels\Users\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.Managerrs.ProductManager">
+    <Position X="14.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAACAKQAAAAAAAAAAAAIAAAAAAAAQ=</HashCode>
+      <FileName>Managerrs\ProductManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.Managerrs.UserManager">
+    <Position X="5.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAIgAAAAAgkAgAAAAAAAEAIAAAAEAAAAAAAA=</HashCode>
+      <FileName>Managerrs\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3ProgTemplate.Views.AdminView" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAABIAAAEAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Views\AdminView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Labb3ProgTemplate.Views.LoginView" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAIEA=</HashCode>
+      <FileName>Views\LoginView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="Labb3ProgTemplate.Views.ShopView" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAgAAAAAACAAA=</HashCode>
+      <FileName>Views\ShopView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Labb3ProgTemplate.MainWindow">
+    <Position X="8.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="Labb3ProgTemplate.Enums.UserTypes">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\UserTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
